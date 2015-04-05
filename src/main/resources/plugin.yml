@@ -1,0 +1,9 @@
+name: WilandCraft
+main: io.github.rastacode.wilandcraft.WilandCraft
+version: 1.0
+commands:
+   wld:
+      description: This is a demo command.
+      usage: /<command> [player]
+      permission: wld.*
+      permission-message: You don't have <permission>
